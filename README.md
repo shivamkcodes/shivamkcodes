@@ -3,19 +3,19 @@
 
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-My name is **Shivam Guglani** and I am an **Indian** programmer
+My name is *Shivam Guglani* and I am an *Indian* programmer
 
 <br>
 
 ### Current Status:
 
-- 🔭 I’m currently working on web Apps
+- 🔭 I’m currently working on *web Applications*
 
-- 🌱 I’m currently learning full stack development
+- 🌱 I’m currently learning *full stack development*
 
-- 👯 I’m looking to master data Structures and algorithm
+- 👯 I’m looking to *master data Structures and algorithms*
 
-- ⚡ Fun fact I am addicted to competetive Programming
+- ⚡ Fun fact I am addicted to *competitive Programming*
  
 <br><br>
 ### GitHub Stats:
@@ -31,14 +31,8 @@ My name is **Shivam Guglani** and I am an **Indian** programmer
 <img alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 </code>](https://www.tutorialspoint.com/cprogramming/index.htm)
 [<code>
-<img alt="Dart" width="26px" src="https://img.icons8.com/color/48/000000/dart.png" />
-</code>](https://dart.dev/)
-[<code>
 <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png">
 </code>](https://www.python.org/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -60,9 +54,6 @@ My name is **Shivam Guglani** and I am an **Indian** programmer
 [<code>
 <img alt="Android Studio" width="26px" src="https://img.pngio.com/filebreezeicons-apps-48-android-studiosvg-wikimedia-commons-android-studio-png-1200_1200.png" />
 </code>](https://developer.android.com/studio)
-[<code>
-<img alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-</code>](https://flutter.dev/?gclid=Cj0KCQjwqrb7BRDlARIsACwGad7fLFLhNrtWir1ZQ71ixeHENgE9Em9E8RaNU7sSd9-YPE1mSif29HQaApMxEALw_wcB&gclsrc=aw.ds)
 [<code>
 <img alt="AnaConda" width="26px" src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png">
 </code>](https://www.anaconda.com/)
@@ -103,7 +94,7 @@ My name is **Shivam Guglani** and I am an **Indian** programmer
 
 ### Get in Touch 
 
-<a href="" >
+<a href="https://twitter.com/Guglanishivam1" >
      <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" width="50" height="52" />
   </a>
 
@@ -114,5 +105,3 @@ My name is **Shivam Guglani** and I am an **Indian** programmer
   <a href="https://www.linkedin.com/in/shivam-guglani-b536aa1a7">
     <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" width="50" height="52"/>
   </a>
-   
- 
