@@ -9,13 +9,13 @@ My name is *Shivam Guglani* and I am an *Indian* programmer
 
 ### Current Status:
 
-- 🔭 I’m currently working on *web Applications*
+- 🔭 I’m currently working on **web Applications**
 
-- 🌱 I’m currently learning *full stack development*
+- 🌱 I’m currently learning **full stack development**
 
-- 👯 I’m looking to *master data Structures and algorithms*
+- 👯 I’m looking to **master data Structures and algorithms**
 
-- ⚡ Fun fact I am addicted to *competitive Programming*
+- ⚡ Fun fact I am addicted to **competitive Programming**
  
 <br><br>
 ### GitHub Stats:
