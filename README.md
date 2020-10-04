@@ -105,11 +105,11 @@ My name is **Shivam Guglani** and I am an **Indian** programmer
      <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-48x48.png" width="50" height="52" />
   </a>
 
-  <a href="" >
+  <a href="https://www.instagram.com/shivam__guglani/" >
      <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/instagram-48x48.png" width="50" height="52" />
   </a>
 
-  <a href="">
+  <a href="https://www.linkedin.com/in/shivam-guglani-b536aa1a7">
     <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-48x48.png" width="50" height="52"/>
   </a>
    
