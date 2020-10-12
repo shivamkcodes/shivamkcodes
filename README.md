@@ -1,15 +1,17 @@
-## C++ || JavaScript || Python || MERN || Competitive Programming || Django
+
+<h1 align="center" > HELLO<img height="70" width="70" alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" /></h1>
+
+<p align="center">My name is <b>Shivam Guglani</b> and I am an <b>Indian</b> programmer. I'm a <b>B.Tech</b> student of <b>Krishna Engineering College</b>. I have been writing <b>code</b> from last <b>2 years</b>. I m a <b>backend enthusiast</b>. I have developed many website and also I've been a part many interesting projects as a <b>web developer</b>. I've also built some interesting as well as useful <b>web</b> and <b>python</b> projects. I am currently focussing on my <b>Data Structures and Algorithm</b> skills as i want to <b>master</b> it.</p>
+
+<br>
+
+<h2 align="center">C++ || JavaScript || Python || MERN || Competitive Programming || Django</h2>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkcodes" alt="shivamkcodes" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/guglanishivam1" target="blank"><img src="https://img.shields.io/twitter/follow/guglanishivam1?logo=twitter&style=for-the-badge" alt="guglanishivam1" /></a> </p>
 
-## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-
-My name is **Shivam Guglani** and I am an **Indian** programmer
-
-<br>
 
 ### Current Status:
 
