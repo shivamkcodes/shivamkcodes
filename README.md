@@ -1,6 +1,10 @@
 ## C++ || JavaScript || Python || MERN || Competitive Programming || Django
 
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamkcodes" alt="shivamkcodes" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/guglanishivam1" target="blank"><img src="https://img.shields.io/twitter/follow/guglanishivam1?logo=twitter&style=for-the-badge" alt="guglanishivam1" /></a> </p>
+
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 My name is *Shivam Guglani* and I am an *Indian* programmer
@@ -20,7 +24,11 @@ My name is *Shivam Guglani* and I am an *Indian* programmer
 <br><br>
 ### GitHub Stats:
 
-![Sivams's github stats](https://github-readme-stats.vercel.app/api?username=shivamkcodes&show_icons=true&theme=radical)
+<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkcodes&layout=compact" alt="shivamkcodes" /></p>
+
+<p>&nbsp;<img align="center" height="70%"  src="https://github-readme-stats.vercel.app/api?username=shivamkcodes&show_icons=true" alt="shivamkcodes" /></p>
+
+<br>
 
 ### Languages and Tools: 
 
