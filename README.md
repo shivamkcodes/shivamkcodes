@@ -27,9 +27,9 @@
 <br><br>
 ### GitHub Stats:
 
-<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkcodes&layout=compact" alt="shivamkcodes" /></p>
+<p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkcodes&layout=compact&theme=dark" alt="shivamkcodes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkcodes&show_icons=true" alt="shivamkcodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamkcodes&show_icons=true&theme=dark" alt="shivamkcodes" /></p>
 
 <br>
 
