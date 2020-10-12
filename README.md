@@ -7,7 +7,7 @@
 
 ## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
-My name is *Shivam Guglani* and I am an *Indian* programmer
+My name is **Shivam Guglani** and I am an **Indian** programmer
 
 <br>
 
