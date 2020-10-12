@@ -26,7 +26,7 @@ My name is **Shivam Guglani** and I am an **Indian** programmer
 
 <p><img align="left"  width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkcodes&layout=compact" alt="shivamkcodes" /></p>
 
-<p>&nbsp;<img align="center" height="70%"  src="https://github-readme-stats.vercel.app/api?username=shivamkcodes&show_icons=true" alt="shivamkcodes" /></p>
+<p>&nbsp;<img align="center" height="50%"  src="https://github-readme-stats.vercel.app/api?username=shivamkcodes&show_icons=true" alt="shivamkcodes" /></p>
 
 <br>
 
