@@ -1,5 +1,5 @@
 
-<h1 align="center" > HELLO<img height="70" width="70" alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" /></h1>
+<h1 align="center" > HELLO I AM SHIVAM<img height="70" width="70" alt="GIF" src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" /></h1>
 
 <p align="center">My name is <b>Shivam Guglani</b> and I am an <b>Indian</b> programmer. I'm a <b>B.Tech</b> student of <b>Krishna Engineering College</b>. I have been writing <b>code</b> from last <b>2 years</b>. I m a <b>backend enthusiast</b>. I have developed many website and also I've been a part many interesting projects as a <b>web developer</b>. I've also built some interesting as well as useful <b>web</b> and <b>python</b> projects. I am currently focussing on my <b>Data Structures and Algorithm</b> skills as i want to <b>master</b> it.</p>
 
